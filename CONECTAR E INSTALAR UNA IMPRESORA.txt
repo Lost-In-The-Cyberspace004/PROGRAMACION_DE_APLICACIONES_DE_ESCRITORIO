@@ -1,0 +1,24 @@
+CONECTAR E INSTALAR UNA IMPRESORA
+
+1-) Impresora conectada a la corriente 
+2-) Verificar si la impresora necesita una instalación manual o automática
+3-) Ir a dispositivos
+4-) Impresoras y escáneres
+5-) Ver la lista y encontrar nuestra impresora
+
+Para iniciar la instalación
+
+1-) Agregar impresora o escáner
+2-) Debe estar conectada al PC
+3-) Cuando aparezca queja quieto
+
+Si no aparece
+
+1-) La impresora que deseo no aparece
+2-) Agregar impresora local
+3-) Usar un puerto existente y seleccionar USB
+4-) Marca de la impresora y el controlador del modelo y espichar siguiente
+5-) Nombre para identificar la impresora 
+6-) No compartir 
+
+Y por ultimo: Imprimir pagina de prueba
