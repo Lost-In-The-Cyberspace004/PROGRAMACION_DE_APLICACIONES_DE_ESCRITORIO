@@ -1,0 +1,15 @@
+ADMINISTRADOR DE USUARIOS
+
+Pasos:
+
+1-) Abrir la opcion de Cuentas
+2-) Otras personas 
+3-) Agregar cuenta de administrador
+4-) No tengo los datos de inicio de sesión de esta persona
+5-) Agregar un usuario sin cuenta
+6-) Rellenar las casillas que aparecen
+
+Para cambiar su contraseña
+
+1-) seleccionar el usuario
+2-) Ir a la opción e configuración personal
