@@ -1,0 +1,15 @@
+CREAR CONTRASEÑAS SEGURAS
+
+Muchas webs necesitan registros, entre ellas se necesita una contraseña
+De tal manera que debe ser fácil de recordar y difícil de decifrar.
+
+Evitar usar datos personales
+como nombre, año de nacimiento, amigos, familiares
+
+Debe ser breve o larga abreviada 
+Añadir símbolos
+Intercalar mayúsculas y minúsculas
+
+Complementar con medidas de protección
+como verificación, mensajes, palabras clave, preguntas etc...
+En caso de creer que algo pasa, hay que cambiar la contraseña
