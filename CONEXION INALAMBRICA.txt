@@ -1,0 +1,15 @@
+CONEXION INALAMBRICA
+
+Encontrar el Nombre de la red
+La contraseña
+Tipo de seguridad
+
+1-) Incono de red
+2-) Verificar si esta habilitada la red
+3-) Seleccionar la red
+4-) Poner la contraseña 
+5-) Si la red no aparece hay que ir a la configuración de red
+6-) wifi
+7-) Administrar redes conocidas
+8-) Agregar una nueva red
+9-) Ingresar los datos de la red y habilitar "conectarse automaticamente"

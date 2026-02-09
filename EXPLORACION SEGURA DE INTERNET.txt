@@ -1,0 +1,6 @@
+EXPLORACION SEGURA DE INTERNET
+
+Verificar los dominios y subdominios para no entrar a paginas falsas 
+Verificar el certificado SSL
+No dar click en publicidad o pop-Ups
+No hablar con gente en estos sitios
