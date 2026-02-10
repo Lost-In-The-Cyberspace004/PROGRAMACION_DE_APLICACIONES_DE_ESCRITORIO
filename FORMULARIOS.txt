@@ -1,0 +1,11 @@
+FORMULARIOS 
+
+buscar la opción de formularios
+Ponerle un nombre 
+Una descripción 
+Ir al (+) para añadir el formulario
+Añadir opciones
+Tipo de selección
+Imágenes o lo que quieras 
+
+Para compartir puede ser por enlace o enviando directamente al correo. 

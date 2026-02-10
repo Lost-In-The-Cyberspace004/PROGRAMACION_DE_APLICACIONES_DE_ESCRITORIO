@@ -1,0 +1,7 @@
+CREAR UN INFORME CON TABLAS
+
+1-) Escribir parte del informe
+2-) Añadir la imagen
+3-) Darle click derecho y dar en "ajuste con el texto"  para que quede al lado del texto
+4-) Ir a las opciones de insertar y añadir elementos
+Para editarlos esta la opción que aparece al final una vez se selecciona lo que se desea.

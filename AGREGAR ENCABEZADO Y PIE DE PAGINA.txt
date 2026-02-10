@@ -1,0 +1,19 @@
+AGREGAR ENCABEZADO Y PIE DE PAGINA
+
+Encabezado:
+
+1-) Insertar 
+2-) Encabezado
+3-) Encabezado en blanco
+Y verificar que este el encabezado
+
+Pie de pagina:
+1-) Insertar 
+2-) Pie de pagina 
+3-) pie de pagina en blanco
+4-) Agregar la información que se desee
+
+Numero de pagina:
+1-) Insertar 
+2-) Numero de pagina 
+3-) Principio de pagina

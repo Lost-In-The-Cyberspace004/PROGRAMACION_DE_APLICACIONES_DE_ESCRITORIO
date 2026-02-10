@@ -1,0 +1,17 @@
+CREAR UNA CARTA
+
+Para crear una carta seguiremos los siguientes pasos
+
+1-) Diseño de pagina
+2-) Márgenes normales
+3-) Orientación vertical
+4-) Agregar fecha y saludo seleccionar la opción de alinecio a la derecha
+5-) Cursiva, una vez escrito se desactiva
+6-) Dejar 4 espacios hacia abajo
+7-) Poner el cursor en el lado izquierdo de la pagina
+8-) Poner el saludo
+9-) Una vez escrito el saludo se hacen 2 saltos de linea
+10-) Escribir un mensaje de al menos 3 líneas con la opción justificar 
+11-) 3 saltos de linea
+12-) Escribir una despedida pero dejando todo en el centro 
+13-) Usar la opción de "negriña" y se escribe el nombre 

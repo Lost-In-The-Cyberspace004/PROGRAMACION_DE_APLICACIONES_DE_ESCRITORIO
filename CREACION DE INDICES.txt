@@ -1,0 +1,15 @@
+CREACION DE INDICES
+
+1-) Hacer un salto de pagina
+2-) Poner un titulo ordinario
+3-) Repetir los pasos hasta completar al menos 4 secciones
+5-) Poner el cursor antes de la primera letra del primer titulo puesto
+6-) Ir a referencias
+7-) Elegir "marcar entrada"
+8-) Titulo de la sección en el campo "entrada"
+9-) Luego dar a "marcar"
+10-) Repetir con todos los títulos
+11-) Una vez creadas las referencias vamos a la primera hoja
+12-) Insertar índice en referencias
+13-) Alinear números a la derecha
+14-) Cambiar el numero de columnas a 1
