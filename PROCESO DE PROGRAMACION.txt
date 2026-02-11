@@ -1,0 +1,13 @@
+PROCESO DE PROGRAMACION
+
+Definir el problema: Analizar que se pide y que se necesita hacer 
+Desarrollar algoritmos 
+Diagramas de flujo
+Y Pseudo código 
+
+Escribir el código de programación
+Usando su sintaxis del lenguaje
+Escribirlo en un IDLE
+Además de hacer pruebas de funcionamiento de manera unitaria (fragmentos de codigo) o integradas (entre todo el codigo)
+
+Para realizar una prueba se debe usar un compilador o interprete encargado de realizar toda la revisión del programa.

@@ -1,0 +1,11 @@
+JERARQUIA OPERACIONAL
+
+Las operaciones se realizan de manera jerarquica
+Siguiendo el siguiente orden
+
+Prioridad a las que van en (), [] o {}
+Luego las potencias y raíces
+Calcular las divisiones o multiplicaciones
+Luego las sumas y restas
+
+Cuando esten en la misma jerarquía, se realizan de izquierda a derecha ->

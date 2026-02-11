@@ -1,0 +1,59 @@
+BUCLES o estructuras repetitivas
+
+Las estructuras repetitivas nos ayudan a mostrar muchos datos al mismo tiempo o mantener la continuidad del programa por un tiempo indefinido o por un tiempo exacto. 
+
+Tenemos el "mientras", el "para" y el "hacer mientras"
+
+mientras o while: Se usa cuando se evalúa una condición como verdadera. Si la condición pasa  ser falsa, entonces el bucle se detienen
+Ejemplo.
+
+int c = 0, n = 0;
+while(c < 0){
+c++; //Usamos un iterador de uno en uno ya que necesitamos que siga ejecutandose
+n = c;
+}
+
+
+
+para o for: Se usa cuando ya se sabe cuantas veces se va a repetir el bucle o programa.
+Sus partes son:
+
+1-) La variable inicial que empieza desde 0 o desde el valor en el que se desea empezar 
+2-) La condicion que se debe cumplir para que el bucle se ejecute
+3-) El incremento
+ 
+Ejemplo: 
+for(c = 0; c < 3; c++){
+	System.out.print(c); //Va a mostrar el valor c: 1, 2 y 3. Ya que la condicion dice que "c" debe ser menor que 3 y "c" al ir incrementando de uno en uno, entonces cuando llegue a 3, el bucle se va a detener.
+}
+
+
+
+Hacer mientras o do-while: Permite realizar una accion especifica mientras no se cumpla una condición
+Ejemplo:
+c = 0, n = 0;
+do{
+	c++;
+	System.out.print(c);
+}while(c<3)
+
+
+
+break: Se usa cuando se quiere terminar el bucle aunque la condición se cumpla
+Ejemplo:
+c = 0, n = 0;
+do{
+	c++;
+	if(c == 2)break; //Se termina el bucle una vez llegue a 2
+	System.out.print(c);
+}while(c<3)
+
+
+
+continue: Se usa cuando se desea saltar una parte o momento de la iteración
+c = 0, n = 0;
+do{
+	c++;
+	if(c == 2)continue;
+	System.out.print(c);
+}while(c<3)

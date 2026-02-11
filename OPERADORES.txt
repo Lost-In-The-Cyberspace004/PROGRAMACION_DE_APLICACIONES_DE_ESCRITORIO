@@ -1,0 +1,27 @@
+OPERADORES
+
+Aritmeticos:
+ resta: - 
+ suma: +
+ multiplicación: *
+ división: /
+ Elevado: ^
+ Decremento: --
+ Incremento: ++
+ Modulo o resto: %
+
+Relacionales:
+ Menor que: < 
+ Mayor que: > 
+ Menor o igual que: <= 
+ Mayor o igual que: >= 
+ Diferente: !
+ Igual que: ==
+ Adicionar el valor de la izquierda a la derecha: += 
+
+Logico:
+ &&: and
+ ||: or
+ !=: not
+ 
+Asignación: 
