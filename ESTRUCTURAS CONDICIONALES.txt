@@ -1,0 +1,50 @@
+ESTRUCTURAS CONDICIONALES
+
+si: se usa cuando la condición se cumple
+ejemplo: 
+
+Var_Num = 12;
+if(Var_Num==12){
+	system.out.print("Si, es 12");
+}
+
+
+
+SiNo: Se ejecuta cuando una condicion se cumple y cuando no se cumple, realiza una accion
+Ejemplo: 
+
+Var_Num = 13;
+if(Var_Num == 12){
+	System.out.print("Es 12");
+}else{
+	System.out.print("No, no es 12");
+}
+
+
+SiNoSi: Se usa cuando una accion no se cumple pero se desea verificar si es otra accion.
+Ejemplo:
+
+Var_Num = 13;
+if(Var_Num == 12){
+	System.out.print("Si, si es 12");
+}else{
+	if(Var_Num == 13){
+		System.out.print("Es 13");
+	}else{
+		System.out.print("Ninguna de las anteriores");
+	}
+}
+
+
+
+ENCASO: Se usa cuando se desea verificar una condición exacta, para ello usamos el switch
+Ejemplo:
+
+Var_Num = 12
+switch(Var_Num):
+	case 12:
+		System.out.print("Es 12")
+	break;
+	default:
+		System.out.print("No es 12")
+	break;

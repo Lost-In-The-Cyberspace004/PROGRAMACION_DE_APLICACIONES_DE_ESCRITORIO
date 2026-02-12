@@ -1,0 +1,50 @@
+SINTAXIS BASICA DE LENGUAJE DE PROGRAMACION C
+
+
+
+
+
+C possee instrucciones de control
+
+Puede delimitar el código para eficientizar su comprensión
+
+Puede permitir la creación de subprocesos (funciones)
+
+Utiliza variables especiales llamadas "Punteros" para almacenar la dirección de memoria de otra variable
+
+Cuenta con una amplia biblioteca de funciones que facilitan la creación de programas
+Por ejemplo: 
+
+<assert.h> Contiene la macro assert o aserción utilizada para detectar errores lógicos y otros tipos de falla en la depuración del programa
+<complex.h> conjunto de funciones para manipular números complejos 
+<ctype.h> contiene funciones para clasificar caracteres según sus tipos o para convertir entre mayúsculas a minúsculas independientemente del conjunto de caracteres (típicamente ASCII) o alguna de sus expresiones
+<errno.h> para analizar los códigos de error devueltos por las funciones de la biblioteca
+<fenv.h> para controlar los entornos en coma flotante
+<float.h> contiene la definición de constantes que especifican ciertas propiedades de la biblioteca de coma flotante, como la diferencia mínima entre dos números en coma flotante (_EPSOLON), el numero máximo de dígitos de precisión (_DIG)  o rango de valores que se puedan representar(_MIN_MAX)
+
+
+-----------------------------------------------------------------------------
+
+Para crear nuestro programa 
+Este debe tener solo un punto de entrada y se representa con
+"main()"
+
+int main(){
+	printf("Hola mundo \n")
+	return ();
+}
+
+Hacer variables claras sin que se repitan o usen palabras reservadas
+
+Usar /**/ para comentar codigo o explicarlo
+
+Seguir  la jerarquia de operaciones 
+
+Palabras reservadas:
+
+Tipos de datos: float, char, string, int
+Estructuras de control: if, for, while, do-while, switch (break y continue)
+Punto de entrada: main()
+El retorno de datos usando: return()
+Definicion de un valor constante: const
+Estructuras de datos como los arreglos: array

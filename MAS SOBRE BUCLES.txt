@@ -1,0 +1,26 @@
+MAS SOBRE BUCLES
+
+para o for: Se usa cuando ya se sabe hasta cuanto se va a repetir el bucle. 
+Su estructura es:
+
+for(variable_Con_Valor_Inicial. Es decir, desde que numero se empieza; condición; Iteracion){
+	//Acciones a hacer
+}
+
+
+
+Mientras o while: Se usa mientras una condición se cumpla.
+Su estructura es:
+while(condicion){
+	Iteración
+	//Acciones a hacer
+}
+
+
+
+hacer mientras o do-while(): Se usa cuando el problema a resolver se ejecute al menos 1 vez. Compuesta por una condicional cuya expresión se evalúa después de ejecutarlo y se detiene cuando la condición es falsa. 
+
+do{
+	Iteracion
+	//Acciones a hacer
+}while(condicion)

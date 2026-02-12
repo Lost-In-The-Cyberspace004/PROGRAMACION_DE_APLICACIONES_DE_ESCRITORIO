@@ -1,0 +1,20 @@
+INSTRUCCIONES CONDICIONALES
+
+las estructuras condicionales se escriben y usan de la siguiente manera
+
+
+condicional if():
+if(condicion){
+
+}else{
+
+}
+
+switch(selector){
+	case <valor1>:
+	break;
+	case <valor2>:
+	break;
+	default:
+	break;
+}

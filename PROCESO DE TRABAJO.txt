@@ -1,0 +1,14 @@
+PROCESO DE TRABAJO
+
+Para hacer un programa que cumpla con los requisitos que se necesitan
+Hay que seguir los siguientes pasos:
+
+1-) Definición de problema
+2-) Análisis del problema determinando los datos de entrada
+3-) Algoritmos y diagramas de flujo
+4-) Pasar de pseudocodigo a un lenguaje de programación
+5-) Pruebas de escritorio y depuración
+
+En caso de problemas, se deben analizar el código, el diagrama de flujo y el pseudocodigo para entender. 
+
+Además de hacer una documentación para entender como funciona el programa. 
